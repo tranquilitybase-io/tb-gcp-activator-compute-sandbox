@@ -1,0 +1,14 @@
+---
+name: GCP Compute Engine API
+description: This Activator simply enables "compute.googleapis.com" when deployed.
+category: Sandbox
+type: GCP-API
+last_updated: 2020-10-06
+platforms:
+  - GCP
+ci:
+  - Jenkins
+cd:
+  - Jenkins
+mandatoryVariables:
+optionalVariables:
